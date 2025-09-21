@@ -36,6 +36,7 @@ This project demonstrates practical SQL optimization techniques using PostgreSQL
 - Google Gemini AI - Query analysis and optimization suggestions
   
 <h2> Contributors: </h2>
-- Braulio HG - Project Author
-- Google Gemini AI - Optimization suggestions 
+Braulio HG - Project Author.
+
+Google Gemini AI - Optimization suggestions. 
 
